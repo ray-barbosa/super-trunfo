@@ -3,5 +3,6 @@
     import "fmt"
 
     func main() {
-    	fmt.Println("Olá, Mundo!")
-    }
+        fmt.Println(cadastroJogador("Alice"))
+		fmt.Println(cadastroJogador("Bob"))
+	   }
