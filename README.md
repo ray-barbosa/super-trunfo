@@ -11,13 +11,21 @@ Este projeto é uma implementação do jogo Super Trunfo, com o objetivo de apli
 1. Clone o repositório:
     ```bash
     git clone https://github.com/seu-usuario/super-trunfo.git
-    cd super-trunfo
+    cd app
     ```
 2. Instale as dependências (se aplicável).
 3. Execute o projeto conforme as instruções específicas do diretório.
 
+
+````
+go run . // na raiz main do projeto
+
+````
+
+
 ## Tecnologias Utilizadas
 
+ Por enquanto Golang 
 
 
 ## Contribuição
